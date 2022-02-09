@@ -126,11 +126,11 @@ if st.sidebar.button('Submit'):
 
 	if diagnosis == 1:
 
-		st.sidebar.success("RESULT: No Malaria")
+		st.sidebar.success("RESULT: Malaria Negative")
 
 	else:
 
-		st.sidebar.error("RESULT:  Malaria") 
+		st.sidebar.error("RESULT: Malaria Positive") 
 
 
 

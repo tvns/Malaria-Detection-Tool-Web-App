@@ -172,9 +172,8 @@ with st.expander('Click here to know about the Author ', expanded=True):
 	with info:
 
 		st.markdown('### Karthik Thallam')
-		st.markdown('##### Machine Learning Engineer')
+		st.markdown('##### Machine Learning Expert')
 		st.caption('Wish to connect?')
-		st.markdown('Linkedin : [Karthik Thallam](https://www.linkedin.com/in/karthikthallam/)')
 		st.write('📧: karthik.thallam1@gmail.com')
 
 

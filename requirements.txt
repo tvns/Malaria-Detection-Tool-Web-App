@@ -3,6 +3,5 @@ opencv-python-headless==4.5.5.64
 Pillow==9.0.1
 streamlit==1.5.0
 tensorflow==2.17.1
-python==3.10.12
 setuptools==65.5.0
 wheel==0.40.0

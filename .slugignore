@@ -1,0 +1,10 @@
+*.h5
+*.ipynb
+__pycache__/
+*.pkl
+node_modules/
+.git/
+.venv/
+*.log
+*.csv
+*.zip
